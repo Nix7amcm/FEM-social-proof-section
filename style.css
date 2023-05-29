@@ -154,6 +154,7 @@ h1.heading__title {
 .ratings {
   gap: 1rem;
   max-width: 33.75rem;
+  margin-top: 1.6875rem;
 }
 
 .ratings__rating {
@@ -176,6 +177,10 @@ h1.heading__title {
 
 .rate-3 {
   align-self: flex-end;
+}
+
+.ratings__rating__stars {
+  gap: .5281rem;
 }
 
 
@@ -201,6 +206,7 @@ h1.heading__title {
 
   .ratings {
     min-height: 14.125rem;
+    margin-top: 0;
   }
 
   .ratings__rating {
@@ -212,7 +218,6 @@ h1.heading__title {
     height: 4.875rem;
     padding-left: 0;
   }
-
 }
 
 
