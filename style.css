@@ -240,6 +240,10 @@ h1.heading__title {
   align-self: center;
 }
 
+.review-2 p {
+  padding-right: 3px;
+}
+
 .review-3 {
   align-self: flex-end;
 }
@@ -260,6 +264,10 @@ h1.heading__title {
   .review-1,
   .review-3 {
     align-self: center;
+  }
+
+  .review-2 p {
+    padding-right: 0;
   }
 }
 
