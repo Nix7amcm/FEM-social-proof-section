@@ -120,6 +120,7 @@ h1.heading__title {
 
 .card {
   gap: 4.4375rem;
+  margin-top: 2rem;
 }
 
 @media (max-width: 1137px) {
