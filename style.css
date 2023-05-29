@@ -146,7 +146,7 @@ h1.heading__title {
 }
 
 .heading {
-  gap: 1rem;
+  gap: 1.5rem;
   align-self: flex-start;
   max-width: 27.8125rem;
 }
